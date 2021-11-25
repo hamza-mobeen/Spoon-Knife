@@ -1,1 +1,2 @@
 0780. 📚 docs: add API usage examples
+0226. 🚀 perf: lazy-load components
