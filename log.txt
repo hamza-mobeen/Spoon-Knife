@@ -4,3 +4,4 @@
 0570. 🎨 style: apply consistent indentation
 0477. 🐛 fix: fix broken CSS in mobile view
 0084. 🐛 fix: handle 500 error in quiz API
+0785. ✨ feat: enable dark mode toggle
