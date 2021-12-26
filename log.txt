@@ -203,3 +203,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0263. 📚 docs: add API usage examples
 0062. ♻️ chore: update .gitignore
+0079. 🐛 fix: correct typo in registration form
