@@ -207,3 +207,4 @@
 0114. ♻️ chore: update .gitignore
 0200. 🐛 fix: handle 500 error in quiz API
 0290. ✅ test: test user registration edge cases
+0282. 🔧 refactor: remove redundant code blocks
