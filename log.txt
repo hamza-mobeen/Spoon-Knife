@@ -214,3 +214,4 @@
 0025. 🚀 perf: optimize database query for quiz results
 0958. 🐛 fix: prevent crash on empty input
 0551. 📚 docs: write FAQ section
+0778. 📚 docs: write FAQ section
