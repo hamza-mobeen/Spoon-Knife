@@ -18,3 +18,4 @@
 0594. 🎨 style: reformat files with black
 0298. ♻️ chore: update .gitignore
 0128. ♻️ chore: rename env.example
+0827. 🚀 perf: optimize database query for quiz results
