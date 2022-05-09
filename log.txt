@@ -216,3 +216,4 @@
 0551. 📚 docs: write FAQ section
 0778. 📚 docs: write FAQ section
 0422. 🔧 refactor: organize models into subfolders
+0476. 🚀 perf: reduce image load time
