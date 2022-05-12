@@ -21,3 +21,4 @@
 0827. 🚀 perf: optimize database query for quiz results
 0577. ✨ feat: implement quiz timer feature
 0679. ♻️ chore: bump dependencies
+0957. 🐛 fix: fix null pointer exception on login
