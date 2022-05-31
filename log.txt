@@ -217,3 +217,4 @@
 0778. 📚 docs: write FAQ section
 0422. 🔧 refactor: organize models into subfolders
 0476. 🚀 perf: reduce image load time
+0319. 🐛 fix: handle 500 error in quiz API
