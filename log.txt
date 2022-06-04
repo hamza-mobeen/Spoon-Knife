@@ -24,3 +24,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0770. ♻️ chore: rename env.example
 0720. ✨ feat: add export to CSV option
+0221. ✨ feat: add user authentication
