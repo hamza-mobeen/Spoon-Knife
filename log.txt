@@ -219,3 +219,4 @@
 0476. 🚀 perf: reduce image load time
 0319. 🐛 fix: handle 500 error in quiz API
 0387. ✨ feat: enable dark mode toggle
+0953. 🎨 style: remove trailing whitespace
