@@ -27,3 +27,4 @@
 0221. ✨ feat: add user authentication
 0501. ✨ feat: add export to CSV option
 0540. ♻️ chore: add GitHub actions badge
+0256. ✅ test: mock database connection in test suite
