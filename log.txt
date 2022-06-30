@@ -222,3 +222,4 @@
 0953. 🎨 style: remove trailing whitespace
 0799. ♻️ chore: clean up unused files
 0679. ♻️ chore: bump dependencies
+0485. 📚 docs: update README with setup steps
