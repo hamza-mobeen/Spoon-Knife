@@ -223,3 +223,4 @@
 0799. ♻️ chore: clean up unused files
 0679. ♻️ chore: bump dependencies
 0485. 📚 docs: update README with setup steps
+0469. 🚀 perf: lazy-load components
