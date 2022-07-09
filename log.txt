@@ -225,3 +225,4 @@
 0485. 📚 docs: update README with setup steps
 0469. 🚀 perf: lazy-load components
 0742. 📚 docs: clarify environment setup
+0252. 🎨 style: remove trailing whitespace
