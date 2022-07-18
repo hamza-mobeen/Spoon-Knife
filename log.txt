@@ -227,3 +227,4 @@
 0742. 📚 docs: clarify environment setup
 0252. 🎨 style: remove trailing whitespace
 0527. 🎨 style: remove trailing whitespace
+0054. ♻️ chore: update .gitignore
