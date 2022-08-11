@@ -228,3 +228,4 @@
 0252. 🎨 style: remove trailing whitespace
 0527. 🎨 style: remove trailing whitespace
 0054. ♻️ chore: update .gitignore
+0035. ✅ test: increase coverage on auth module
