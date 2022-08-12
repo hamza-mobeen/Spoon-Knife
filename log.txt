@@ -229,3 +229,4 @@
 0527. 🎨 style: remove trailing whitespace
 0054. ♻️ chore: update .gitignore
 0035. ✅ test: increase coverage on auth module
+0647. 🐛 fix: prevent crash on empty input
