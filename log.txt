@@ -230,3 +230,4 @@
 0054. ♻️ chore: update .gitignore
 0035. ✅ test: increase coverage on auth module
 0647. 🐛 fix: prevent crash on empty input
+0553. 🐛 fix: correct typo in registration form
