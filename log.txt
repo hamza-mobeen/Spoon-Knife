@@ -231,3 +231,4 @@
 0035. ✅ test: increase coverage on auth module
 0647. 🐛 fix: prevent crash on empty input
 0553. 🐛 fix: correct typo in registration form
+0994. 🚀 perf: reduce image load time
