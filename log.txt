@@ -46,3 +46,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0531. 🐛 fix: prevent crash on empty input
 0735. ♻️ chore: add GitHub actions badge
+0148. 🔧 refactor: organize models into subfolders
