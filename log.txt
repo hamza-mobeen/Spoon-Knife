@@ -243,3 +243,4 @@
 0773. 📚 docs: document token refresh logic
 0961. 📚 docs: add API usage examples
 0601. ✨ feat: implement quiz timer feature
+0207. 🐛 fix: prevent crash on empty input
