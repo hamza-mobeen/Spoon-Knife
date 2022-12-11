@@ -249,3 +249,4 @@
 0369. 🎨 style: standardize quote style
 0119. 📚 docs: improve code comments in utils
 0401. 🚀 perf: reduce image load time
+0775. 🐛 fix: fix null pointer exception on login
