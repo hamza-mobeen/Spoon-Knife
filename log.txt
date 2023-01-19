@@ -52,3 +52,4 @@
 0300. ✨ feat: add export to CSV option
 0889. 🚀 perf: lazy-load components
 0119. 📚 docs: improve code comments in utils
+0694. 🎨 style: rename variables for clarity
