@@ -255,3 +255,4 @@
 0933. 📚 docs: clarify environment setup
 0696. 🔧 refactor: clean up auth middleware
 0613. 🐛 fix: prevent crash on empty input
+0913. 🚀 perf: optimize database query for quiz results
