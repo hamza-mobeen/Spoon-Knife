@@ -57,3 +57,4 @@
 0145. 📚 docs: improve code comments in utils
 0693. 📚 docs: add API usage examples
 0414. 🔧 refactor: remove redundant code blocks
+0338. ♻️ chore: add GitHub actions badge
