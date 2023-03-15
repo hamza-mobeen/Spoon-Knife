@@ -59,3 +59,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0338. ♻️ chore: add GitHub actions badge
 0185. 📚 docs: write FAQ section
+0353. ♻️ chore: rename env.example
