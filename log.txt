@@ -60,3 +60,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0185. 📚 docs: write FAQ section
 0353. ♻️ chore: rename env.example
+0268. 🐛 fix: prevent crash on empty input
