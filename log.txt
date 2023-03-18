@@ -61,3 +61,4 @@
 0185. 📚 docs: write FAQ section
 0353. ♻️ chore: rename env.example
 0268. 🐛 fix: prevent crash on empty input
+0743. 🎨 style: apply consistent indentation
