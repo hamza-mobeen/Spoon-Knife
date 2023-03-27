@@ -266,3 +266,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0756. ✨ feat: support email verification
 0307. ✨ feat: support email verification
+0634. 🎨 style: reformat files with black
