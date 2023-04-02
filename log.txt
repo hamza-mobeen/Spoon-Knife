@@ -267,3 +267,4 @@
 0756. ✨ feat: support email verification
 0307. ✨ feat: support email verification
 0634. 🎨 style: reformat files with black
+0160. ♻️ chore: bump dependencies
