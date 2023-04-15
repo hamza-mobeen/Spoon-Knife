@@ -63,3 +63,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0743. 🎨 style: apply consistent indentation
 0565. ♻️ chore: add GitHub actions badge
+0739. 🎨 style: remove trailing whitespace
