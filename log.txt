@@ -66,3 +66,4 @@
 0739. 🎨 style: remove trailing whitespace
 0841. 🚀 perf: optimize database query for quiz results
 0604. 📚 docs: add API usage examples
+0077. ♻️ chore: rename env.example
