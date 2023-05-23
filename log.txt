@@ -272,3 +272,4 @@
 0015. ✨ feat: implement quiz timer feature
 0470. 🎨 style: remove trailing whitespace
 0390. 🎨 style: standardize quote style
+0665. ♻️ chore: update .gitignore
