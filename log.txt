@@ -273,3 +273,4 @@
 0470. 🎨 style: remove trailing whitespace
 0390. 🎨 style: standardize quote style
 0665. ♻️ chore: update .gitignore
+0898. 🐛 fix: fix broken CSS in mobile view
