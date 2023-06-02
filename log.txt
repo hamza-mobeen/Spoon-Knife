@@ -69,3 +69,4 @@
 0077. ♻️ chore: rename env.example
 0006. 🐛 fix: prevent crash on empty input
 0319. 🐛 fix: handle 500 error in quiz API
+0026. 🔧 refactor: clean up auth middleware
