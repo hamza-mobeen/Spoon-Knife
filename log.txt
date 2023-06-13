@@ -276,3 +276,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0182. 🔧 refactor: remove redundant code blocks
 0514. 🐛 fix: fix broken CSS in mobile view
+0296. 🔧 refactor: organize models into subfolders
