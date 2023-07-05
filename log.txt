@@ -73,3 +73,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0373. 📚 docs: document token refresh logic
 0710. 🐛 fix: fix broken CSS in mobile view
+0572. ✨ feat: add user authentication
