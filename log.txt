@@ -282,3 +282,4 @@
 0210. 🎨 style: apply consistent indentation
 0749. ✨ feat: support email verification
 0980. 🎨 style: reformat files with black
+0040. 🔧 refactor: clean up auth middleware
