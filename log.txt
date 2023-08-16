@@ -75,3 +75,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0572. ✨ feat: add user authentication
 0979. 🎨 style: standardize quote style
+0290. ✅ test: test user registration edge cases
