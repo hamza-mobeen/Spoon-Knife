@@ -80,3 +80,4 @@
 0144. ✅ test: increase coverage on auth module
 0728. 🔧 refactor: split large controller into smaller functions
 0782. 📚 docs: improve code comments in utils
+0562. 🔧 refactor: clean up auth middleware
