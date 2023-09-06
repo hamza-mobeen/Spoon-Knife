@@ -82,3 +82,4 @@
 0782. 📚 docs: improve code comments in utils
 0562. 🔧 refactor: clean up auth middleware
 0660. 🐛 fix: correct typo in registration form
+0520. 🐛 fix: fix null pointer exception on login
