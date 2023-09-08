@@ -287,3 +287,4 @@
 0606. 📚 docs: improve code comments in utils
 0460. 📚 docs: write FAQ section
 0367. 🐛 fix: fix null pointer exception on login
+0590. 🐛 fix: fix null pointer exception on login
