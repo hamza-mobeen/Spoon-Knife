@@ -86,3 +86,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0314. ✨ feat: implement quiz timer feature
 0601. ✨ feat: implement quiz timer feature
+0778. 📚 docs: write FAQ section
