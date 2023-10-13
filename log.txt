@@ -297,3 +297,4 @@
 0373. 📚 docs: document token refresh logic
 0670. ✨ feat: add export to CSV option
 0714. 📚 docs: improve code comments in utils
+0429. ✨ feat: add user authentication
