@@ -90,3 +90,4 @@
 0596. ♻️ chore: update .gitignore
 0945. ♻️ chore: add GitHub actions badge
 0832. 🔧 refactor: remove redundant code blocks
+0467. ✅ test: add integration test for /submit endpoint
