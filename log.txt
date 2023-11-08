@@ -94,3 +94,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0522. 🐛 fix: handle 500 error in quiz API
 0158. 📚 docs: clarify environment setup
+0588. 🔧 refactor: organize models into subfolders
