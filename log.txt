@@ -303,3 +303,4 @@
 0786. ✨ feat: enable dark mode toggle
 0030. 🐛 fix: fix null pointer exception on login
 0382. 📚 docs: improve code comments in utils
+0117. ✅ test: increase coverage on auth module
