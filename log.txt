@@ -306,3 +306,4 @@
 0117. ✅ test: increase coverage on auth module
 0027. 📚 docs: clarify environment setup
 0657. 🎨 style: standardize quote style
+0462. ♻️ chore: update .gitignore
