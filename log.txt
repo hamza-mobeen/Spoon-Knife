@@ -308,3 +308,4 @@
 0657. 🎨 style: standardize quote style
 0462. ♻️ chore: update .gitignore
 0571. 🔧 refactor: clean up auth middleware
+0774. 🔧 refactor: refactor quiz grading logic
