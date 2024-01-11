@@ -309,3 +309,4 @@
 0462. ♻️ chore: update .gitignore
 0571. 🔧 refactor: clean up auth middleware
 0774. 🔧 refactor: refactor quiz grading logic
+0276. ✅ test: add integration test for /submit endpoint
