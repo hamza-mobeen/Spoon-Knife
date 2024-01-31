@@ -103,3 +103,4 @@
 0190. 🎨 style: rename variables for clarity
 0556. ✨ feat: support email verification
 0999. 🔧 refactor: split large controller into smaller functions
+0406. ✨ feat: add export to CSV option
