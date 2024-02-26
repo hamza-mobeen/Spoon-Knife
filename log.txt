@@ -316,3 +316,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0864. 🐛 fix: correct typo in registration form
 0708. ✅ test: add integration test for /submit endpoint
+0502. 📚 docs: update README with setup steps
