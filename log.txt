@@ -107,3 +107,4 @@
 0895. ✨ feat: support email verification
 0433. 🐛 fix: prevent crash on empty input
 0011. ✅ test: add unit test for quiz service
+0982. 🚀 perf: lazy-load components
