@@ -120,3 +120,4 @@
 0961. 📚 docs: add API usage examples
 0892. ✅ test: add unit test for quiz service
 0350. 🚀 perf: cache repeated calculations
+0914. ✅ test: test user registration edge cases
