@@ -324,3 +324,4 @@
 0034. 📚 docs: improve code comments in utils
 0655. 🚀 perf: cache repeated calculations
 0233. 🚀 perf: lazy-load components
+0957. 🐛 fix: fix null pointer exception on login
