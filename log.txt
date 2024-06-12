@@ -124,3 +124,4 @@
 0623. 🎨 style: standardize quote style
 0442. 🎨 style: standardize quote style
 0777. 📚 docs: document token refresh logic
+0509. ♻️ chore: bump dependencies
