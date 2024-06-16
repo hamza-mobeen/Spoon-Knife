@@ -125,3 +125,4 @@
 0442. 🎨 style: standardize quote style
 0777. 📚 docs: document token refresh logic
 0509. ♻️ chore: bump dependencies
+0673. 🐛 fix: correct typo in registration form
