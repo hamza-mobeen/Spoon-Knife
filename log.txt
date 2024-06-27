@@ -126,3 +126,4 @@
 0777. 📚 docs: document token refresh logic
 0509. ♻️ chore: bump dependencies
 0673. 🐛 fix: correct typo in registration form
+0855. 🎨 style: reformat files with black
