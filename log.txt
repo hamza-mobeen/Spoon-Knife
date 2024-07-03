@@ -129,3 +129,4 @@
 0855. 🎨 style: reformat files with black
 0822. 🔧 refactor: remove redundant code blocks
 0059. ♻️ chore: bump dependencies
+0538. 🐛 fix: fix broken CSS in mobile view
