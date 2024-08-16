@@ -133,3 +133,4 @@
 0707. 🎨 style: apply consistent indentation
 0376. 🎨 style: apply consistent indentation
 0416. 🎨 style: rename variables for clarity
+0387. ✨ feat: enable dark mode toggle
