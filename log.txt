@@ -334,3 +334,4 @@
 0195. 📚 docs: clarify environment setup
 0577. ✨ feat: implement quiz timer feature
 0830. 🎨 style: apply consistent indentation
+0931. 🚀 perf: reduce image load time
