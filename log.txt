@@ -135,3 +135,4 @@
 0416. 🎨 style: rename variables for clarity
 0387. ✨ feat: enable dark mode toggle
 0875. ✅ test: increase coverage on auth module
+0874. 🔧 refactor: split large controller into smaller functions
