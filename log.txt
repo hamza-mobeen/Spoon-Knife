@@ -137,3 +137,4 @@
 0875. ✅ test: increase coverage on auth module
 0874. 🔧 refactor: split large controller into smaller functions
 0027. 📚 docs: clarify environment setup
+0418. ✅ test: mock database connection in test suite
