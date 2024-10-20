@@ -335,3 +335,4 @@
 0577. ✨ feat: implement quiz timer feature
 0830. 🎨 style: apply consistent indentation
 0931. 🚀 perf: reduce image load time
+0349. ✅ test: increase coverage on auth module
