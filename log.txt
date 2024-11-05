@@ -143,3 +143,4 @@
 0123. ✨ feat: implement quiz timer feature
 0942. ✅ test: increase coverage on auth module
 0881. 🔧 refactor: split large controller into smaller functions
+0946. ✅ test: add unit test for quiz service
