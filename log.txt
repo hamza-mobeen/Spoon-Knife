@@ -148,3 +148,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0583. ✅ test: increase coverage on auth module
 0297. 🎨 style: remove trailing whitespace
+0435. ✅ test: add unit test for quiz service
