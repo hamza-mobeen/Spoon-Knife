@@ -346,3 +346,4 @@
 0001. 🚀 perf: cache repeated calculations
 0868. ✅ test: add unit test for quiz service
 0484. 🐛 fix: handle 500 error in quiz API
+0721. 🚀 perf: optimize database query for quiz results
