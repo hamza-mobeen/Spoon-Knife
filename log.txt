@@ -347,3 +347,4 @@
 0868. ✅ test: add unit test for quiz service
 0484. 🐛 fix: handle 500 error in quiz API
 0721. 🚀 perf: optimize database query for quiz results
+0505. ♻️ chore: add GitHub actions badge
