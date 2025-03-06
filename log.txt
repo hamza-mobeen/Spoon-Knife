@@ -153,3 +153,4 @@
 0136. 🚀 perf: lazy-load components
 0767. 🔧 refactor: remove redundant code blocks
 0663. 🚀 perf: reduce image load time
+0150. 🎨 style: remove trailing whitespace
