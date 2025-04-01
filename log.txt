@@ -350,3 +350,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0559. 🔧 refactor: split large controller into smaller functions
 0019. ✨ feat: enable dark mode toggle
+0995. ✅ test: mock database connection in test suite
