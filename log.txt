@@ -156,3 +156,4 @@
 0150. 🎨 style: remove trailing whitespace
 0789. ✨ feat: create admin dashboard
 0741. 🎨 style: apply consistent indentation
+0171. 🐛 fix: fix broken CSS in mobile view
