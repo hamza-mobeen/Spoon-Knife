@@ -355,3 +355,4 @@
 0226. 🚀 perf: lazy-load components
 0202. 🔧 refactor: refactor quiz grading logic
 0644. 🎨 style: apply consistent indentation
+0483. 📚 docs: update README with setup steps
