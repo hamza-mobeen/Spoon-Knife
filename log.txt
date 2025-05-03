@@ -158,3 +158,4 @@
 0741. 🎨 style: apply consistent indentation
 0171. 🐛 fix: fix broken CSS in mobile view
 0021. ✨ feat: support email verification
+0868. ✅ test: add unit test for quiz service
