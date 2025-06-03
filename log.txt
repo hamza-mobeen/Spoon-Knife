@@ -360,3 +360,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0288. 🔧 refactor: refactor quiz grading logic
 0990. ♻️ chore: rename env.example
+0080. ✨ feat: support email verification
