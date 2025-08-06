@@ -174,3 +174,4 @@
 0769. ✨ feat: create admin dashboard
 0432. 🎨 style: apply consistent indentation
 0580. ♻️ chore: bump dependencies
+0490. ✨ feat: create admin dashboard
