@@ -177,3 +177,4 @@
 0490. ✨ feat: create admin dashboard
 0194. 🎨 style: standardize quote style
 0343. 🚀 perf: optimize database query for quiz results
+0678. ✨ feat: add user authentication
