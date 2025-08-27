@@ -178,3 +178,4 @@
 0194. 🎨 style: standardize quote style
 0343. 🚀 perf: optimize database query for quiz results
 0678. ✨ feat: add user authentication
+0729. 🔧 refactor: refactor quiz grading logic
