@@ -373,3 +373,4 @@
 0723. 🔧 refactor: remove redundant code blocks
 0065. ✅ test: add integration test for /submit endpoint
 0648. ♻️ chore: bump dependencies
+0821. ✅ test: add integration test for /submit endpoint
