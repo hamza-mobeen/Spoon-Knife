@@ -374,3 +374,4 @@
 0065. ✅ test: add integration test for /submit endpoint
 0648. ♻️ chore: bump dependencies
 0821. ✅ test: add integration test for /submit endpoint
+0866. 📚 docs: add API usage examples
