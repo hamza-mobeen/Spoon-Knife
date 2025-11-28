@@ -189,3 +189,4 @@
 0885. ♻️ chore: update .gitignore
 0932. ✅ test: add integration test for /submit endpoint
 0716. ✨ feat: implement quiz timer feature
+0004. 🚀 perf: optimize database query for quiz results
