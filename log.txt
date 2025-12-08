@@ -379,3 +379,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0899. 🚀 perf: cache repeated calculations
 0131. 📚 docs: write FAQ section
+0589. 🐛 fix: fix broken CSS in mobile view
