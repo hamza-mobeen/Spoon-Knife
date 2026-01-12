@@ -385,3 +385,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0673. 🐛 fix: correct typo in registration form
 0847. ♻️ chore: clean up unused files
+0982. 🚀 perf: lazy-load components
