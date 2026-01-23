@@ -196,3 +196,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0346. ✅ test: mock database connection in test suite
 0794. ♻️ chore: clean up unused files
+0551. 📚 docs: write FAQ section
