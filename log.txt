@@ -392,3 +392,4 @@
 0407. 🚀 perf: cache repeated calculations
 0449. ✅ test: add unit test for quiz service
 0283. ♻️ chore: add GitHub actions badge
+0246. ✅ test: add integration test for /submit endpoint
