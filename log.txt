@@ -397,3 +397,4 @@
 0489. 🔧 refactor: organize models into subfolders
 0533. ♻️ chore: add GitHub actions badge
 0792. 🎨 style: standardize quote style
+0720. ✨ feat: add export to CSV option
